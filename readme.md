@@ -78,3 +78,7 @@ knu아이디 또는 카카오톡 아이디를 통해 회원가입을 합니다.
 관리자가 게시한 공지를 확인합니다.
 #### 질문하기
 제본관련 문의사항을 관리자(복사집)에게 문의합니다.
+
+## 참고자료
+
+[제안서](https://docs.google.com/document/d/1dwTgtJum1a3gwzmqgZZTh4V8Zg72q-VHzKKdtGzZ3T4/edit)
