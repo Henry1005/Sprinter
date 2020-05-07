@@ -72,4 +72,12 @@
 ### 전제척인 구조도
 
 
-### 
+
+## 5월 7일 <홈페이지 화면 구성>
+
+<img width="804" alt="home1" src="https://user-images.githubusercontent.com/48755699/84591879-cc00be80-ae7c-11ea-9f03-92b0b2bdecc8.PNG" width="600" height="500">
+
+### 홈페이지를 들어가자 마자 나오는 화면을 만들었습니다.
+
+
+
