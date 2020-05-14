@@ -22,4 +22,4 @@ class ProductAdmin(admin.ModelAdmin):
 admin.site.register(Product, ProductAdmin)
 from django.contrib import admin
 
-# Register your models here.
+
