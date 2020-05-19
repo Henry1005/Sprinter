@@ -86,3 +86,14 @@
 <img width="519" alt="admin" src="https://user-images.githubusercontent.com/48755699/84592087-df605980-ae7d-11ea-90bf-362bdd37e832.PNG" width="600" height="500">
 
 ### 관리자 페이지를 만들었습니다.
+
+
+
+## 5월 19일 <중간 프로젝트 보고 회의>
+
+<img src="https://user-images.githubusercontent.com/48755699/84590988-dd929800-ae75-11ea-8be4-9911c2e83d79.jpg" width="500" height="700">
+
+### 첫 대면 회의 : seqeunce diagram, class diagram, use-case diagram 포함한 발표 피피티 제작
+
+
+
