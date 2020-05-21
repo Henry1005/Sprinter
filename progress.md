@@ -97,3 +97,8 @@
 
 
 
+## 5월 21일 <소셜 로그인>
+
+<img width="413" alt="naver" src="https://user-images.githubusercontent.com/48755699/84592296-842f6680-ae7f-11ea-844d-97917b75a62a.PNG" width="500" height="700">
+
+### 소셜로그인 기능을 추가하였습니다.
