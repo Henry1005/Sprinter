@@ -102,3 +102,12 @@
 <img width="413" alt="naver" src="https://user-images.githubusercontent.com/48755699/84592296-842f6680-ae7f-11ea-844d-97917b75a62a.PNG" width="500" height="700">
 
 ### 소셜로그인 기능을 추가하였습니다.
+
+
+
+## 5월 30일 <장바구니 기능 구현>
+
+<img width="895" alt="cart" src="https://user-images.githubusercontent.com/48755699/84592375-47b03a80-ae80-11ea-9c1c-ecf01625ca59.png" width="500" height="700">
+
+### 장바구니 기능 구현했습니다.
+
