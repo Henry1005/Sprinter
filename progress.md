@@ -111,3 +111,12 @@
 
 ### 장바구니 기능 구현했습니다.
 
+
+
+##  6월 14일 <프로젝트 개발 계획 회의>
+
+<img src="https://user-images.githubusercontent.com/48755699/84592523-42072480-ae81-11ea-944a-131a40a4ab87.jpg" width="500" height="700">
+
+### 회의결과 : Q&A, 게시판 기능 구현 , PPT, 최종보고서 작성 (DUE: 6월 18일)
+
+
