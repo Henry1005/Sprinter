@@ -119,4 +119,11 @@
 
 ### 회의결과 : Q&A, 게시판 기능 구현 , PPT, 최종보고서 작성 (DUE: 6월 18일)
 
+## 6월 16일 <프로젝트 개발 회의>
+
+<img src="https://user-images.githubusercontent.com/48755699/84815850-9ad7e800-b04e-11ea-91ea-0a5fde588032.jpg" width="500" height="500">
+
+<img src="https://user-images.githubusercontent.com/48755699/84815953-bfcc5b00-b04e-11ea-9462-671e65ab8d14.jpg" width="500" height="500">
+
+### Q&A, 게시판, 결제기능 구현을 위해 만남  || 아직 기능 미완성 
 
