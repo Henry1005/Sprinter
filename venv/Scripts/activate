@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\membe\PycharmProjects\check\venv"
+VIRTUAL_ENV="C:\Users\membe\PycharmProjects\sprinter\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
