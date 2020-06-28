@@ -127,3 +127,14 @@
 
 ### Q&A, 게시판, 결제기능 구현을 위해 만남  || 아직 기능 미완성 
 
+
+
+### 결제기능 구현
+
+<img width="958" alt="주문1" src="https://user-images.githubusercontent.com/48755699/85951893-fd12e000-b9a0-11ea-9a3b-ba35aa3636d8.PNG">
+
+### 사용자 주문
+
+<img width="789" alt="주문2" src="https://user-images.githubusercontent.com/48755699/85951919-25024380-b9a1-11ea-97e1-8cb22a7dc34b.PNG">
+
+### 관리자 주문확인
