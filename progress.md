@@ -129,7 +129,7 @@
 
 
 
-### 결제기능 구현
+## 6월 28일 <결제기능 구현>
 
 <img width="958" alt="주문1" src="https://user-images.githubusercontent.com/48755699/85951893-fd12e000-b9a0-11ea-9a3b-ba35aa3636d8.PNG">
 
